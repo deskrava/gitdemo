@@ -14,6 +14,7 @@
 		9ACF99ED2786DD320030C123 /* gitdemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACF99EC2786DD320030C123 /* gitdemoTests.swift */; };
 		9ACF99F72786DD320030C123 /* gitdemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACF99F62786DD320030C123 /* gitdemoUITests.swift */; };
 		9ACF99F92786DD320030C123 /* gitdemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACF99F82786DD320030C123 /* gitdemoUITestsLaunchTests.swift */; };
+		9ACF9A082786E68C0030C123 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9ACF9A072786E68C0030C123 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9ACF99F22786DD320030C123 /* gitdemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitdemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACF99F62786DD320030C123 /* gitdemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitdemoUITests.swift; sourceTree = "<group>"; };
 		9ACF99F82786DD320030C123 /* gitdemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitdemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9ACF9A072786E68C0030C123 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		9ACF99CF2786DD310030C123 = {
 			isa = PBXGroup;
 			children = (
+				9ACF9A072786E68C0030C123 /* .gitignore */,
 				9ACF99DA2786DD310030C123 /* gitdemo */,
 				9ACF99EB2786DD320030C123 /* gitdemoTests */,
 				9ACF99F52786DD320030C123 /* gitdemoUITests */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ACF99E32786DD320030C123 /* Preview Assets.xcassets in Resources */,
+				9ACF9A082786E68C0030C123 /* .gitignore in Resources */,
 				9ACF99E02786DD320030C123 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
