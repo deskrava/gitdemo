@@ -9,8 +9,6 @@ import SwiftUI
 
 @main
 struct gitdemoApp: App {
-    var body: some Scene {
-        WindowGroup {
             ContentView()
         }
     }
@@ -18,3 +16,4 @@ struct gitdemoApp: App {
 print("test")
 print("test 2")
  
+//Ннапишу просто коментарий
