@@ -16,4 +16,5 @@ struct gitdemoApp: App {
     }
 }
 print("test")
+print("test 2")
  
